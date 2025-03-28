@@ -8,7 +8,7 @@
 
 <p align="center">
     👁️ <b>Visitors Enchanted</b> <br>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nazmisani&title=Visitors" alt="Visitor Badge"/>
+   <img src="https://komarev.com/ghpvc/?username=nazmisani&color=blue&style=flat-square" alt="Visitor Badge"/>
 </p>
 
 <p align="center">
