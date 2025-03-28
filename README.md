@@ -1,8 +1,7 @@
-<div align="center">
-  <img src=""/>
-</div>
 
-![mario]([https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
+![mario](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
 <!--
 **nazmisani/nazmisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
