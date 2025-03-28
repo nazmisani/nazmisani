@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;Mobile+Developer&font=Fira+Code&center=true&width=440&height=45&color=60a5fa&vCenter=true&size=22">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Software+Engineer;Mobile+Developer;First,+solve+the+problem.+Then,+write+the code.&font=Fira+Code&center=true&width=440&height=45&color=60a5fa&vCenter=true&size=22">
 </p>
 
 <p align="center">
