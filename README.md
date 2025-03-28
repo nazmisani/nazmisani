@@ -31,11 +31,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nazmisani/nazmisani/output/github-snake.svg" width="800">
-</p>
-
-
 ---
 
 <p align="center">
