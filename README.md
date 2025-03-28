@@ -33,6 +33,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+</p>
+
+---
+
 <h2 align="center">⚡ Tech Superpower Showcase</h2>
 
 <p align="center">
@@ -72,13 +78,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmisani&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmisani&theme=tokyonight" alt="GitHub Streak" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="700"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
 </p>
+
+
+
+
