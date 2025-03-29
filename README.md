@@ -12,24 +12,14 @@
     <b>👀 Total Visitors</b>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <h2 align="center">🚀 From Teaching to Tech: My Developer Journey</h2>
-      <br/>
-      <img align="right" width="160" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFodXh2bjkxNTdlZGtqc2Jlc2ZnZzlhcGN0a2pqOTJyYWpueTJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif"/>
-      <p>
-        My journey into tech didn’t begin with code—it started in the classroom. Fresh out of high school, I dedicated a year to teaching at a junior high school, mentoring young minds while quietly igniting my own passion for technology.
-      </p>
-      <p>
-        That passion led me to immerse myself in web development, transforming late-night coding marathons into tangible skills. After a year of teaching, I took a leap of faith and enrolled in an intensive 4-month full-stack web development bootcamp. It was a game-changer.
-      </p>
-      <p>
-        Today, as a full-stack developer, I don't just write code—I craft experiences, solve real-world problems, and continuously push the boundaries of innovation. The journey is ongoing, and I’m only getting started. 🚀
-      </p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">📥 Connect With Me 📥</h2>
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/yourwhatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
 
 ---
 
@@ -84,7 +74,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
 </p>
-
-
-
-
