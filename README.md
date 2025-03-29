@@ -12,15 +12,6 @@
     <b>👀 Total Visitors</b>
 </p>
 
-<h2 align="center">📥 Connect With Me 📥</h2>
-
-<p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/yourwhatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>
-
 ---
 
 <p align="center">
@@ -73,4 +64,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
+</p>
+
+---
+
+<h2 align="center">📥 Connect With Me 📥</h2>
+
+<p align="center">
+  <a href="mailto:nazminouval@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nouvalnazmi2362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/+6289526084725"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://profile-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
