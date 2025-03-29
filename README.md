@@ -14,6 +14,27 @@
 
 ---
 
+<table align="center">
+  <tr>
+    <td>
+      <h2 align="center">🚀 From Teaching to Tech: My Developer Journey</h2>
+      <br/>
+      <img align="right" width="160" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFodXh2bjkxNTdlZGtqc2Jlc2ZnZzlhcGN0a2pqOTJyYWpueTJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif"/>
+      <p>
+        My journey into tech didn’t begin with code—it started in the classroom. Fresh out of high school, I dedicated a year to teaching at a junior high school, mentoring young minds while quietly igniting my own passion for technology.
+      </p>
+      <p>
+        That passion led me to immerse myself in web development, transforming late-night coding marathons into tangible skills. After a year of teaching, I took a leap of faith and enrolled in an intensive 4-month full-stack web development bootcamp. It was a game-changer.
+      </p>
+      <p>
+        Today, as a full-stack developer, I don't just write code—I craft experiences, solve real-world problems, and continuously push the boundaries of innovation. The journey is ongoing, and I’m only getting started. 🚀
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </p>
@@ -78,5 +99,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
 </p>
+
