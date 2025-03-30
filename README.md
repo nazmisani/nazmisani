@@ -99,8 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212543680-50a98f6f-0bb4-4d35-bcd4-1f3d4c6f03d4.gif" width="100%">
 </p>
+
 
