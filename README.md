@@ -99,7 +99,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212543680-50a98f6f-0bb4-4d35-bcd4-1f3d4c6f03d4.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/nazmisani/nazmisani/main/assets/wave.svg" alt="wave" width="100%">
 </p>
+
+
 
 
