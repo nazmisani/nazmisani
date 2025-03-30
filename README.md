@@ -9,7 +9,7 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/nazmisani/count.svg" alt="Visitor Count">
     <br>
-    <b>👀 Total Visitors</b>
+    <b>👀 Total Visitors </b>
 </p>
 
 ---
