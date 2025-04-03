@@ -36,7 +36,7 @@
 <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" />
-  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="800">
+  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="1000">
 </p>
 
 ---
