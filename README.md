@@ -33,6 +33,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="800">
+</p>
+
 ---
 
 <p align="center">
@@ -98,9 +102,7 @@
   <a href="https://profile-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="800">
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=10000&animation=fadeIn">
