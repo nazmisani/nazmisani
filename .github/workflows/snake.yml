@@ -1,25 +1,18 @@
-# GitHub Action workflow file to be saved as .github/workflows/github-snake.yml in your profile repository
-
 name: Generate Snake Animation
 
-# Controls when the workflow will run
 on:
-  # Runs automatically every day
   schedule:
     - cron: "0 0 * * *" # Runs at midnight UTC every day
-
-  # Allows manual triggering of the workflow
   workflow_dispatch:
-
-  # Runs on push to the main branch
   push:
     branches:
       - main
 
-# Jobs to run
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This is crucial - explicitly setting write permission
 
     steps:
       # Checkout the repository content
