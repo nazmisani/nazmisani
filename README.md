@@ -86,7 +86,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="850"/>
 </p>
 
 <p align="center">
