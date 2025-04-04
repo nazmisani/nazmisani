@@ -107,5 +107,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=10000&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=1000&animation=fadeIn">
 </p>
