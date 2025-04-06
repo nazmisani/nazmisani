@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="700"/>
 </p>
 
 ---
