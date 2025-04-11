@@ -33,6 +33,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" />
+  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="1000">
+</p>
+
 ---
 
 <p align="center">
@@ -80,7 +86,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="850"/>
 </p>
 
 <p align="center">
@@ -93,7 +99,7 @@
 
 ---
 
-<h2 align="center">📥 Connect With Me 📥</h2>
+<h2 align="center">📥 Connect With Me.... 📥</h2>
 
 <p align="center">
   <a href="mailto:nazminouval@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -104,10 +110,8 @@
   <a href="https://dev.to/your-dev-to"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/nazmisani/nazmisani/blob/output/github-snake.svg" alt="GitHub Snake Animation" width="800">
-</p>
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=10000&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=1000&animation=fadeIn">
 </p>
