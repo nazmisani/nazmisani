@@ -86,15 +86,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="850"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmisani&theme=tokyonight" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmisani&theme=tokyo-night" alt="Activity Graph" width="850"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmisani&theme=tokyo-night" alt="Activity Graph" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="850"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
 </p>
 
 ---
