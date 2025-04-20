@@ -27,7 +27,7 @@
         That passion led me to immerse myself in web development, transforming late night coding marathons into tangible skills. After a year of teaching, I took a leap of faith and enrolled in an intensive 4-month full-stack web development bootcamp. It was a game-changer.
       </p>
       <p>
-        Today, as a full-stack developer, I don't just write code—I craft experiences, solve real-world problems, and continuously push the boundaries of innovation. The journey is ongoing, and I’m only getting started. 🚀
+        Today, as a full-stack developer, I don't just write code I craft experiences, solve real-world problems, and continuously push the boundaries of innovation. The journey is ongoing, and I’m only getting started. 🚀
       </p>
     </td>
   </tr>
