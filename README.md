@@ -90,11 +90,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmisani&theme=tokyo-night" alt="Activity Graph" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazmisani&theme=tokyo-night" alt="Activity Graph" width="850"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmisani&layout=compact&theme=tokyonight" alt="Top Languages" width="850"/>
 </p>
 
 ---
