@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td>
-      <h2 align="center">🚀 From Teaching to Tech: My Developer Journey</h2>
+      <h2 align="center">🚀 From Teaching to Tech: My Developer Journey.</h2>
       <br/>
       <img align="right" width="160" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFodXh2bjkxNTdlZGtqc2Jlc2ZnZzlhcGN0a2pqOTJyYWpueTJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif"/>
       <p>
