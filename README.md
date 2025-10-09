@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=nazmisani&label=👀%20Total%20Visitors&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
 
-
 ---
 
 <table align="center">
@@ -27,6 +26,9 @@
       </p>
       <p>
         Today, as a full-stack developer, I don't just write code I craft experiences, solve real-world problems, and continuously push the boundaries of innovation. The journey is ongoing, and I’m only getting started. 🚀
+      </p>
+      <p align="center">
+        <b>🌱 Currently Learning:</b> Exploring the power of <b>Go (Golang)</b> to master backend performance and concurrency.
       </p>
     </td>
   </tr>
