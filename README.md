@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nazmisani/&title=👀%20Total%20Visitors&edge_flat=false"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nazmisani&label=👀%20Total%20Visitors&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
 
 
